@@ -55,10 +55,13 @@
 
    - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
-**[ProFTPd IAC 1.3.x](https://www.exploit-db.com/exploits/15449)**
-**[vsftpd 2.3.4](https://www.exploit-db.com/exploits/49757)**
-**[MySQL 5.0.x - IF Query Handling Remote Denial of Service](https://www.exploit-db.com/exploits/30020)**
-**[MySQL 5.0.x - Single Row SubSelect Remote Denial of Service](https://www.exploit-db.com/exploits/29724)**
+1. **[ProFTPd IAC 1.3.x](https://www.exploit-db.com/exploits/15449)**
+
+2. **[vsftpd 2.3.4](https://www.exploit-db.com/exploits/49757)**
+
+3. **[MySQL 5.0.x - IF Query Handling Remote Denial of Service](https://www.exploit-db.com/exploits/30020)**
+
+4. **[MySQL 5.0.x - Single Row SubSelect Remote Denial of Service](https://www.exploit-db.com/exploits/29724)**
 
 ---
 
