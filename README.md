@@ -53,12 +53,12 @@
 
 ![4](img/4.png)
 
-- Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
+   - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
-**[ProFTPd IAC 1.3.x]**(https://www.exploit-db.com/exploits/15449)
-**[vsftpd 2.3.4]**(https://www.exploit-db.com/exploits/49757)
-**[MySQL 5.0.x - IF Query Handling Remote Denial of Service]**(https://www.exploit-db.com/exploits/30020)
-**[MySQL 5.0.x - Single Row SubSelect Remote Denial of Service]**(https://www.exploit-db.com/exploits/29724)
+**[ProFTPd IAC 1.3.x](https://www.exploit-db.com/exploits/15449)**
+**[vsftpd 2.3.4](https://www.exploit-db.com/exploits/49757)**
+**[MySQL 5.0.x - IF Query Handling Remote Denial of Service](https://www.exploit-db.com/exploits/30020)**
+**[MySQL 5.0.x - Single Row SubSelect Remote Denial of Service](https://www.exploit-db.com/exploits/29724)**
 
 ---
 
@@ -70,8 +70,8 @@
 
 Ответьте на следующие вопросы:
 
-    - Чем отличаются эти режимы сканирования с точки зрения сетевого трафика?
-    - Как отвечает сервер?
+   - Чем отличаются эти режимы сканирования с точки зрения сетевого трафика?
+   - Как отвечает сервер?
 
 *Приведите ответ в свободной форме.*
 
